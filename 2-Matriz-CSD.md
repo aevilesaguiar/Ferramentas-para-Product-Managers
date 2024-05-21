@@ -20,3 +20,4 @@ Dúvidas: O que você gostaria de saber do seu público alvo? Coloque aqui as pe
 
 Uma ideia por post-it: Evite colocar muito texto nos post-its. O espaço pequeno nos ajuda a ser mais objetivos e quebrar ideias complexas em várias mais simples. Também é interessante que todos os post it tenham a mesma cor, para irem alternando nas colunas, à medida que suposições viram certezas, dúvidas viram suposições, etc.
 
+<img width="396" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/4ade0e69-50ad-471d-b5e0-69e4c9ffe43f">
