@@ -23,3 +23,9 @@ Uma vez que você tenha essas informações, separe essas pessoas em três grupo
 - TERCIÁRIAS: são afetas, apesar de são atuarem no produto.
 
 Use o mapa de stakeholders para acelerar a execução do projeto. Otimize a comunicação e as tomadas de decisão.
+
+
+<img width="555" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/3b5f882d-f5fc-4aac-8b4f-ddb28fea913a">
+
+<img width="555" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/7106a556-b0bf-4576-8f82-648d5dd1df39">
+
