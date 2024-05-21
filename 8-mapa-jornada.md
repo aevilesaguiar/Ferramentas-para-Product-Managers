@@ -18,6 +18,6 @@ Esse mapeamento ajuda na concepção e melhoria de interfaces pois, entendendo c
 
     - Suas habilidades e conhecimentos estão coerentes com os desafios cognitivos envolvidos?
  
-<img width="539" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/70180969-b461-492c-903d-bf88d239409f">
+<img width="900" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/70180969-b461-492c-903d-bf88d239409f">
 
-<img width="506" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/a33d3c53-9779-4ec6-8641-2365846aab82">
+<img width="900" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/a33d3c53-9779-4ec6-8641-2365846aab82">
