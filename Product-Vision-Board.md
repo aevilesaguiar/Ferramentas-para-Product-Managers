@@ -12,7 +12,7 @@ Agora finalmente chegamos ao Product Vision Board. É aqui que apresentaremos a 
 
 <img width="548" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/736c72db-592b-472e-8a0b-1367a7794dac">
 
-
+<img width="434" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/22ecdedd-0ad8-4627-b52b-4dcda55867dd">
 
 Uma visão concreta do produto é crucial para qualquer produto de software. Diz a você para onde você está indo, por que está indo e para quem está indo. Usamos o Product Vision Board para definir nossa visão de produto e traçar o caminho que usaremos para tornar essa visão uma realidade.
 
