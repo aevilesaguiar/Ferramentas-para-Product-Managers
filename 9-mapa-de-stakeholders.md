@@ -29,3 +29,13 @@ Use o mapa de stakeholders para acelerar a execução do projeto. Otimize a comu
 
 <img width="555" alt="image" src="https://github.com/aevilesaguiar/Ferramentas-para-Product-Managers/assets/52088444/7106a556-b0bf-4576-8f82-648d5dd1df39">
 
+O discurso para os stakeholders, para que eles não deixem de ouvir a sua sugestão, ou entendam que voce quer aenas inserir mais uma ferramenta no contexto, afinal não é sobre frameworks/ferramentas e sobre trazer resultados:
+
+Você pode citar->
+  - Percebi através das análises que os números de acesso estão caindo
+  - Algumas funcionalidades estão sendo pouco utilizadas
+  - As vendas estão caindo
+  - Mostrar métricas
+  - é necessário mostrar valor para os stakeholders, para ganhar patrocínio
+  - é necessário engajar os stakeholders
+    
